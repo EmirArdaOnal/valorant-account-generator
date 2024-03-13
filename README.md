@@ -1,16 +1,14 @@
-# Valorant Hesap Oluşturucu
+# Valorant Account Generator
+While using this account generator, the user is solely responsible for any issues that may arise. Responsibility cannot be attributed to me. This is merely a sample sharing.
 
-Bu hesap oluşturucuyu kullanırken yaşanabilecek herhangi bir sorundan kullanan kişi kendisi sorumludur. Sorumluluk tarafıma yüklenemez. Yalnızca bir örnek paylaşımıdır.
+CAPTCHA Solver extensions or codes will not be provided. You should handle CAPTCHA issues on your own.
 
-CAPTCHA Solver eklentisi veya kodları paylaşılmayacaktır. CAPTCHA sorunuyla kendiniz ilgilenmelisiniz.
-
-# Kurulum
+# Installation
 ```pip install -r requirements.txt```
-yapmanız yeterlidir.
 
+This is all you need to do.
 
+# Execution
+```python main.py```
 
-# Çalıştırma
-```python main.py ```
-
-Bu adımları takip ederek Valorant Hesap Oluşturucu'yu kullanabilirsiniz.
+By following these steps, you can use the Valorant Account Generator.
